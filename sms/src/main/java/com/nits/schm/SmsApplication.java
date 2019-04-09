@@ -1,4 +1,5 @@
-package com.nits.schm.main;
+package com.nits.schm;
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
