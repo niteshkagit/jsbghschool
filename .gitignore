@@ -1,0 +1,19 @@
+/.metadata/
+Servers/Pivotal tc Server Developer Edition v4.0-config/catalina.policy
+Servers/.project
+Servers/Pivotal tc Server Developer Edition v4.0-config/catalina.properties
+*.prefs
+*.password
+Servers/Pivotal tc Server Developer Edition v4.0-config/context.xml
+sms/.mvn/wrapper/MavenWrapperDownloader.java
+sms/.mvn/wrapper/maven-wrapper.properties
+sms/.mvn/wrapper/maven-wrapper.jar
+sms/mvnw.cmd
+sms/mvnw
+sms/.mvn/wrapper/maven-wrapper.jar
+Servers/Pivotal tc Server Developer Edition v4.0-config/web.xml
+Servers/Pivotal tc Server Developer Edition v4.0-config/jmxremote.access
+Servers/Pivotal tc Server Developer Edition v4.0-config/server.xml
+Servers/Pivotal tc Server Developer Edition v4.0-config/tomcat-users.xml
+sms/.mvn/wrapper/maven-wrapper.jar
+sms/.mvn/wrapper/maven-wrapper.jar
